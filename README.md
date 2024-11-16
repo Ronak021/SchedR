@@ -3,7 +3,7 @@ Designed a full stack Appointment Scheduling System featuring User Authenticatio
 
 
 
-## Home Page
+
 ![Home Page](https://raw.github.com/Uday2902/appointment-scheduling-system/main/Screenshots/home.png)
 
 
